@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">An Information Technology student passionate about Java, DSA, and backend development</h3>
 
-- 🔭 I’m currently working on **DSA practice using Java and building backend projects with Spring Boot**
+- 🔭 I’m currently working on [DSA practice using Java and building backend projects with Spring Boot](https://github.com/Ashishone25/DSA-JAVA.git)
 
 - 🤝 I’m looking for help with **System Design and advanced backend development**
 
